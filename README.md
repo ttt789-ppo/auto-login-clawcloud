@@ -1,4 +1,4 @@
-# 项目已修复，可以正常运行登录
+# clawcloud已停止运营，本项目已作废
 
 # ☁️ ClawCloud Auto-Login / 自动保活
 
